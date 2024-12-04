@@ -1,0 +1,81 @@
+.cartitems{
+    margin: 100px 100px;
+}
+
+.cartitems hr{
+    height: 3px;
+    background-color: rgb(204, 204, 204);
+    border: none
+}
+
+.cartitems-format-main{
+    display: grid;
+    grid-template-columns: 0.5fr 2fr 1fr 1fr 1fr 1fr;
+    align-items: center;
+    gap: 75px;
+    padding: 10px 0;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.cartitems-format{
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.carticon-product-icon{
+    width: 100px; /* Fixed width */
+    height: 100px; /* Fixed height */
+    object-fit: contain; /* Maintain aspect ratio */
+    background-color: #f5f5f5; /* Light gray background */
+    padding: 5px; /* Optional: padding around the image */
+    border-radius: 5px; /* Optional: rounded corners */
+}
+
+.carticon-remove-icon{
+    width: 15px;
+    margin: 0 40px;
+    cursor: pointer;
+}
+
+.cartitems-quantity{
+    width: 60px;
+    height: 30px;
+    border: 1px solid rgb(194, 178, 178);
+    background: white;
+}
+
+.cartitems-down{
+    display: flex;
+    margin: 50px 0;
+}
+
+.cartitems-total{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    margin-right: 200px;
+    gap: 20px;
+}
+
+.cartitems-total-item{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px;
+}
+
+.cartitems-total button{
+    width: 200px;
+    height: 60px;
+    border: none;
+    background: #ff2550;
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+
+
+

@@ -1,0 +1,52 @@
+.newsLetter{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(to left, #F4A261, #457d94);
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin:30px 10% 30px 10%;
+    width: 80%;
+    border-radius: 15px;
+
+}
+
+.newsLetter h1{
+    color: #154558;
+    font-weight: 600;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Adds a shadow */
+}
+
+.newsLetter p{
+    color: #92480b;
+    font-size: 20px;
+}
+
+.newsLetter div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 400px;
+    height: 40px;
+}
+
+.newsLetter input{
+    font-family: poppins;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 5px 5px 5px 10px;
+    
+    border-radius: 5px;
+}
+
+.newsLetter button{
+    font-family: poppins;
+    font-size: 16px;
+    width: 100px;
+    background-color: rgb(185, 35, 35);
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 5px;
+}
