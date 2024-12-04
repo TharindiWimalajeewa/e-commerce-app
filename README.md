@@ -22,7 +22,14 @@ Development Environment: Visual Studio Code
 
 ## Project Demo
 
-Screenshots of Shop page, Men page, Women page, Kids page, Sign in page and Shopping Cart page
+Screenshots of Shop page, Men page, Women page, Kids page, Login page and Shopping Cart page
+
+Shop page - ![Shop page](https://github.com/user-attachments/assets/649c1729-619f-46d0-8888-91bbbcedbc7a)
+Men page - ![Men page](https://github.com/user-attachments/assets/71ffa7a6-5aff-4574-a5e0-b24a34f34bcc)
+Women page - ![Women page](https://github.com/user-attachments/assets/f25430af-9457-47f4-8b2e-7b3902078ef3)
+Kids page - ![Kids page](https://github.com/user-attachments/assets/42f1ddf9-df3c-4f00-8315-af8253e532a4)
+Login page - ![Login Page](https://github.com/user-attachments/assets/54cf67d8-b511-4abc-b765-555c0be27345)
+Shopping cart page - ![Shopping cart page](https://github.com/user-attachments/assets/6a8c5b61-3f9f-4456-862b-142ae5d4ddfd)
 
 ## Installation & setup instructions
 
